@@ -1,0 +1,19 @@
+{
+	"name": "lblti/test1",
+	"description": "testMongo",
+	"keywords": ["framework", "laravel"],
+	"license": "MIT",
+	"require": {
+		
+	},
+	"autoload": {
+
+	},
+	"scripts": {
+
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "stable"
+}
